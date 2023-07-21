@@ -17,6 +17,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        JOptionPane.showMessageDialog(null, "prueba de commit");
         Vinicio_usuario viu = new Vinicio_usuario();
         Vregistro_Propietario vrp = new Vregistro_Propietario();
         Vregistro_Vehiculo vrv = new Vregistro_Vehiculo();
