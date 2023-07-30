@@ -19,6 +19,7 @@ public class Vregistro_Comparendos extends javax.swing.JFrame {
     public Vregistro_Comparendos() {
         initComponents();
         this.setLocationRelativeTo(null);
+        txt_Cc.requestFocusInWindow();
     }
 
     /**
