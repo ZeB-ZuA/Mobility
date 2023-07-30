@@ -1,0 +1,6 @@
+1. Asegurarse tener descargada la maquina virtual de java 8 o superior (JDK).
+2. Descargar la ultima version de Mobility en github, la puede encontrar en : https://github.com/ZeB-ZuA/Mobility/tags
+   descargar el .zip
+3. extraer el archivo y diriguirse a la carpeta dist del proyecto.
+4. Doble click en Mobility.jar 
+5. Feliz
