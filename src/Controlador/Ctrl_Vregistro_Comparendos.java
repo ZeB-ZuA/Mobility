@@ -21,6 +21,7 @@ public class Ctrl_Vregistro_Comparendos implements MouseListener {
     private DTO_comparendo dtoc;
     private DAO_pagos_comparendo daopc;
     private DTO_pagos_comparendo dtopc;
+   
 
     public Ctrl_Vregistro_Comparendos(Vregistro_Comparendos vrc, VmenuComparendos vmc, DAO_comparendo daoc, DTO_comparendo dtoc, DAO_pagos_comparendo daopc, DTO_pagos_comparendo dtopc) {
         this.vrc = vrc;

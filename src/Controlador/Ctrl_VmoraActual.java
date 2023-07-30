@@ -71,7 +71,7 @@ public class Ctrl_VmoraActual implements MouseInputListener {
         }
         if (e.getSource() == vmra.lbl_Volver) {
             
-            vm.setVisible(true);
+            vi.setVisible(true);
             vmra.dispose();
         }
 
